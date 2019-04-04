@@ -57,6 +57,7 @@
   "source.yaml": "ShellScript.tmpl",
   "source.verilog": "C.tmpl",
   "source.visualforce": "HTML.tmpl",
+  "text.html.ejs": "HTML.tmpl",
   "text.html.basic": "HTML.tmpl",
   "text.html.erb": "HTML.tmpl",
   "text.html.gohtml": "HTML.tmpl",
